@@ -1,1 +1,1 @@
-{"name":"Winner Pool","ip":"193.164.7.180","port":"6000"}
+{"name":"Winner Pool","ip":"35.173.194.122","port":"6000"}
